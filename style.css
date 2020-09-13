@@ -83,6 +83,11 @@ body {
 	color: white;
 	font-size: 20px;
 	margin-top: 50px;
+	text-decoration: none;
+}
+
+.contact__button:hover {
+	transform: scale(1.1);
 }
 
 .hero__image-container {
